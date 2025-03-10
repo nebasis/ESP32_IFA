@@ -1,0 +1,24 @@
+<design>IFA_ESP32.HYP</design>
+<message>HyperLynx SI/PI/Thermal VX.2.10</message>
+<message>[VX2.10 build 19246144] Install Id: 2373006</message>
+<message>03/08/25 14:16:03</message>
+<message>Design: IFA_ESP32.HYP</message>
+<message>Design folder: C:\JOSHUA_DATA\PCB_GITHUB\Altium\ESP32_MIFA\</message>
+<message>Designer: Joshua Anthony</message>
+<message>Plane-noise simulation.</message>
+<message></message>
+<info>Preparing Via Collector...</info>
+<debug>Removing ViaCollector data of previous session...</debug>
+<info>Preparing board geometry for PI simulation...</info>
+<info>Loading Stackup...</info>
+<info>Loading power supply nets data...</info>
+<info>Board geometry is prepared for PI simulation</info>
+<info>Collecting VRMs...</info>
+<info>No VRM pins are present in the board.</info>
+<debug>Memory status - allocated:1009836032 address space used:1303617536 b</debug>
+<info>Collecting decoupling-capacitor circuits...</info>
+<info>Processing decoupling capacitors for all nets...</info>
+<info>Collecting power supply pins...</info>
+<info>0 of total 0 source power pins are successfully added.</info>
+<error>No valid sources are found. Nothing to do.</error>
+<error>Design does not contain valid signal sources. Nothing to simulate.</error>
